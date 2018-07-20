@@ -8,5 +8,7 @@ A simple DNS client written in python. It supports the following requests:
 - MX  
 - AAAA  
 
+Run it like this:
 
+`./dnsclient www.example.com A`
 
